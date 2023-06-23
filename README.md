@@ -1,2 +1,2 @@
 # FormValidation
-Using JavaScript foe formvalidation
+Using JavaScript for formValidation
